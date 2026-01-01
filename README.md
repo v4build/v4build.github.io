@@ -12,5 +12,5 @@ If you share a similar passion or just like to create things, lets connect:
 ### [Web Accessibility Resources](https://v4build.github.io/accessibility/)
 Page with curated resources to help individuals and teams get started with web accessibility.
 
-### [Review Alt Text (Chrome extension)](https://github.com/v4build/Review-Image-AltText)
-Displays the alt text for all images on a webpage to aid in accessibility testing.
+### [Review Alt Text (Chrome extension)](https://chromewebstore.google.com/detail/review-alt-text-v4build/lgbpecaalejnpibeemnpellkiofhgpak?pli=1)
+Displays the alt text for all images on a webpage to aid in accessibility testing. Link - [Review Image Alt Text - Github repo](https://github.com/v4build/Review-Image-AltText)
