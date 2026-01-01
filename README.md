@@ -1,6 +1,6 @@
-## Hi there 👋
+## Bio & Experiments
 
-I am strategic and results-driven Digital Accessibility Leader with over 15 years of experience architecting and scaling enterprise-wide accessibility programs. Proven ability to establish standards, implement robust processes, deliver impactful training, and champion inclusive design across large organizations. I am exploring ways to leverage AI to innovate and advance digital inclusion at scale.
+Strategic and results-driven Digital Accessibility Leader with over 15 years of experience architecting and scaling enterprise-wide accessibility programs. Proven ability to establish standards, implement robust processes, deliver impactful training, and champion inclusive design across large organizations. I am exploring ways to leverage AI to innovate and advance digital inclusion at scale.
 
 Read my <a href="https://v4build.github.io/designer-statement">designer statement</a>.
 
